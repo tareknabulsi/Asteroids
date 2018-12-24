@@ -1,0 +1,6 @@
+{"shapes":[
+  {"type": "Circle", "size": "Large",  "left": 0,     "top":   0, "right": 150,  "bottom": 150, "x":  -1, "y":   1, "rotation":    2, "color":    -65536,  "borders": "Rebound"  },
+  {"type": "Square", "size": "Large",  "left": 1050,  "top":   0, "right": 1200, "bottom": 150, "x":  -1, "y":   2, "rotation":    2, "color":    -30536,  "borders": "PassThru" },
+  {"type": "Square", "size": "Large",  "left": 1050,  "top": 500, "right": 1200, "bottom": 650, "x":   1, "y":   2, "rotation":    2, "color": -16711936,  "borders": "PassThru" },
+  {"type": "Circle", "size": "Large",  "left": 0,     "top": 500, "right": 150,  "bottom": 650, "x":  -1, "y":-0.5, "rotation":    2, "color":      -256,  "borders": "Rebound"  }
+]}
